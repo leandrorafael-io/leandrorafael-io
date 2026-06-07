@@ -7,7 +7,7 @@ Moro em Fortaleza, sou formado em Análise e Desenvolvimento de Sistemas pela Es
 
 ## 📊 Estátisticas
 <div >
-  <img width="38.5%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=leandrorafaeel&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true"> <img width="34.5%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=leandrorafaeel&layout=compact&theme=tokyonight&count_private=true">
+  <img width="38.5%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=leandrorfael-io&rank_icon=github&show_icons=true&theme=tokyonight&count_private=true"> <img width="34.5%" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=leandrorafael-io&layout=compact&theme=tokyonight&count_private=true">
 </div>
 
 ## 🛠️ Ferramentas e Tecnologias
